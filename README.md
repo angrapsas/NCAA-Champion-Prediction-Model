@@ -12,6 +12,8 @@ Data is every NCAA team-season from 2013 through 2025, scraped from the
 cancelled. That comes out to 185 team-seasons with 12 champions between them. The 2026 season was
 then used as an actual forward test, predicted before the meet was held.
 
+The written report is in `416_Final_Report.pdf`.
+
 ## Results
 
 - Picking the team with the best average score only gets 7 of 12 seasons right.
@@ -42,6 +44,7 @@ It also runs in Google Colab, where the first cell mounts Drive to cache the fet
 | | |
 |---|---|
 | `NCAA_Champion_Model.ipynb` | The project, with outputs |
+| `416_Final_Report.pdf` | The written report, submitted for CSCI 416 at William & Mary |
 | `requirements.txt` | Packages needed to run it |
 
 ## A note on the numbers
