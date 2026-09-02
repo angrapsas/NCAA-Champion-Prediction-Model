@@ -2,10 +2,8 @@
 
 Can you tell who is going to win the national title before the national meet happens?
 
-This project tries to predict the NCAA men's gymnastics team champion from regular-season data
-alone. Every feature is computed from meets that finished on or before April 8, which falls between
-the conference championships and the NCAA Championship, so nothing the model sees comes from the
-event it is predicting.
+This project tries to answer that from regular-season data alone, and if the answer is yes, to
+work out how early in the season a realistic prediction becomes possible.
 
 Data is every NCAA team-season from 2013 through 2025, scraped from the
 [Road to Nationals](https://www.roadtonationals.com) API. 2020 is missing because the season was
