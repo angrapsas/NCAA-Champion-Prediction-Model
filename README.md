@@ -7,7 +7,7 @@ work out how early in the season a realistic prediction becomes possible.
 
 Data is every NCAA team-season from 2013 through 2025, scraped from the
 [Road to Nationals](https://www.roadtonationals.com) API. 2020 is missing because the season was
-cancelled. That comes out to 185 team-seasons with 12 champions between them. The 2026 season was
+cancelled. That comes out to 184 team-seasons with 12 champions between them. The 2026 season was
 then used as an actual forward test, predicted before the meet was held.
 
 The written report is [416_Final_Report.pdf](https://github.com/angrapsas/NCAA-Champion-Prediction-Model/raw/main/416_Final_Report.pdf).

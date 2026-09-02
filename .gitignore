@@ -1,17 +1,17 @@
-# local working files, deliberately not published
-416_Final_Project.ipynb
-NOTEBOOK_PROSE.md
-scripts/
 
 # environment and build artifacts
-.venv/
-__pycache__/
-*.pkl
-*.bak
-.ipynb_checkpoints/
-
 # latex build artifacts, for the report
+# local working files, deliberately not published
 *.aux
+*.bak
 *.log
 *.out
+*.pkl
 *.synctex.gz
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+416_Final_Project.ipynb
+NOTEBOOK_PROSE.md
+__pycache__/
+scripts/
