@@ -42,9 +42,7 @@ It also runs in Google Colab, where the first cell mounts Drive to cache the fet
 | | |
 |---|---|
 | `NCAA_Champion_Model.ipynb` | The project, with outputs |
-| `416_Final_Project.ipynb` | The original working notebook, kept as-is |
-| `NOTEBOOK_PROSE.md` | The notebook's narrative as plain markdown, for editing |
-| `scripts/sync_prose.py` | Pushes edits from that file back into the notebook |
+| `requirements.txt` | Packages needed to run it |
 
 ## A note on the numbers
 
